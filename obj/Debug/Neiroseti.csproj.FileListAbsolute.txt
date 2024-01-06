@@ -1,0 +1,11 @@
+C:\c#\WindowsForms\Neiroseti\bin\Debug\Neiroseti.exe.config
+C:\c#\WindowsForms\Neiroseti\bin\Debug\Neiroseti.exe
+C:\c#\WindowsForms\Neiroseti\bin\Debug\Neiroseti.pdb
+C:\c#\WindowsForms\Neiroseti\obj\Debug\Neiroseti.csproj.AssemblyReference.cache
+C:\c#\WindowsForms\Neiroseti\obj\Debug\Neiroseti.csproj.SuggestedBindingRedirects.cache
+C:\c#\WindowsForms\Neiroseti\obj\Debug\Neiroseti.Form1.resources
+C:\c#\WindowsForms\Neiroseti\obj\Debug\Neiroseti.Properties.Resources.resources
+C:\c#\WindowsForms\Neiroseti\obj\Debug\Neiroseti.csproj.GenerateResource.cache
+C:\c#\WindowsForms\Neiroseti\obj\Debug\Neiroseti.csproj.CoreCompileInputs.cache
+C:\c#\WindowsForms\Neiroseti\obj\Debug\Neiroseti.exe
+C:\c#\WindowsForms\Neiroseti\obj\Debug\Neiroseti.pdb
